@@ -1,8 +1,8 @@
 # Datenschutzerklärung
 
-Stand: [TT.MM.JJJJ]
+Stand: 14.06.2026
 
-Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung der App **[App-Name]** verarbeitet werden.
+Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten bei der Nutzung der App **Green Fury** verarbeitet werden.
 
 ## 1. Verantwortlicher
 
