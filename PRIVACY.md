@@ -8,7 +8,7 @@ Diese Datenschutzerklärung informiert darüber, welche personenbezogenen Daten 
 
 Verantwortlich für diese App ist:
 
-**E-Mail: christian@entwickler-raum.de**
+**E-Mail: greenfury@entwickler-raum.de**
 
 ## 2. Grundsatz
 
