@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+www/
+coverage/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Capacitor Android
+android/.gradle/
+android/build/
+android/app/build/
+android/local.properties
+android/captures/
+
+# Capacitor iOS
+ios/App/Pods/
+ios/App/build/
+ios/App/DerivedData/
+ios/App/xcuserdata/
+*.xcuserstate
+
+# Cordova
+platforms/
+plugins/
